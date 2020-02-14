@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DatePickerDialog (3.0)
+  - FSCalendar (2.8.1)
+  - KDCircularProgress (1.5.4)
+  - SwiftyJSON (4.3.0)
+  - UICircularProgressRing (6.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DatePickerDialog
+  - FSCalendar
+  - KDCircularProgress
+  - SwiftyJSON (~> 4.0)
+  - UICircularProgressRing
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DatePickerDialog
+    - FSCalendar
+    - KDCircularProgress
+    - SwiftyJSON
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  KDCircularProgress: 98200c6b8e85d22bc04eb644721d3b1e12b0686b
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  UICircularProgressRing: 907613633e76e561b972a3868c95517d14c71006
+
+PODFILE CHECKSUM: 54a6d9dd447cb3cb9469d8345f425e05aa4217bf
+
+COCOAPODS: 1.5.2
